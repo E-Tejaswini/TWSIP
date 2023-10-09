@@ -38,4 +38,5 @@ HALO-commerce/
 ```
 
 ## Contribution Guidelines
-This is a personal project and contributions are not expected. However, if you would like to suggest improvements, feel free to open an issue or submit a pull request.
+This is a personal project and contributions are not expected.
+
