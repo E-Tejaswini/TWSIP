@@ -20,7 +20,7 @@ The following technologies were used in the development of this project:
 ## Getting Started
 To get started with Panda Commerce, follow these steps:
 
-1. Clone the repository: 
+1. Clone the repository:https://github.com/E-Tejaswini/TWSIP.git 
 2. Open the project folder: **`cd panda-commerce`**
 3. Open the **`index.html`** file in your preferred web browser.
 
